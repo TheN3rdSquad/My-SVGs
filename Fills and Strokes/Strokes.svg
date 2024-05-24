@@ -1,0 +1,30 @@
+<svg 
+  width="160"
+  height="160"
+  xmlns="http://www.w3.org/2000/svg">
+  
+  <line 
+    x1="40" x2="120"
+    y1="20" y2="20"
+    stroke="greenyellow"
+    stroke-width="10"
+    stroke-linecap="butt"
+  />
+
+  <line 
+    x1="40" x2="120"
+    y1="60" y2="60"
+    stroke="dodgerblue"
+    stroke-width="10"
+    stroke-linecap="square"
+  />
+
+  <line 
+    x1="40" x2="120"
+    y1="100" y2="100"
+    stroke="pink"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+
+</svg>
